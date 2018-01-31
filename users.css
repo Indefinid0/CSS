@@ -55,17 +55,17 @@
 /* Plebéia/2 */
 #user-rollover.id-5842493:before{
     content: 'My Makeup';
-    top: 119px;
-    left: 135px;
+    top: 112px;
+    left: 139px;
     position: absolute;
     display: inline-block; 
-    padding: 0 3px;
+    padding: 0 5px;
     color: #f78fd4;
     background: linear-gradient(rgba(0, 102, 102, 0.2), rgba(0, 102, 102, 0.2));
     border-radius: 3px;
     font-size: 10px;
 }
-/* !Special Agent Burking */
+/* !Special Agent Jubileu */
 [data-cid^="24738397-"] .badge-box .bdg,
 #user-rollover.id-24738397 .badge-box .bdg {
     border-radius: 5px;
