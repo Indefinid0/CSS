@@ -16,6 +16,10 @@ Copyright © 2016-2018 PinguiN
   box-sizing: border-box;
 }
 
+#room-bar .icon-room {
+    background: url("https://imgur.com/yYlFnxm.png");
+}
+
 body {
     background-image: url('https://imgur.com/Ww7oEQQ.jpg') !important;
     background-attachment: fixed;
