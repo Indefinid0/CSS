@@ -9,6 +9,8 @@ Copyright © 2016-2018 PinguiN
 
 /* Misc & Body */
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+/* Users */
+@import url('https://rawgit.com/Indefinid0/CSS/master/users.css');
 
 * {
   box-sizing: border-box;
