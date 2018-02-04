@@ -1994,3 +1994,21 @@ color:#4aaee7 !important;
     width: 0px;
     height: 0px;
 }
+
+/* paradinha de girar */
+
+#history-button .icon, 
+#footer-user .buttons .button.settings .icon {
+        -moz-transition:        transform 1s ease-in-out;
+        -webkit-transition:     transform 1s ease-in-out;
+        -o-transition:          transform 1s ease-in-out;
+        transition:             transform 1s ease-in-out;
+}
+#history-button .icon:hover, 
+#footer-user .buttons .button.settings .icon:hover
+{
+        -moz-transform:         rotate(360deg) !important; 
+        -webkit-transform:      rotate(360deg) !important;
+        -o-transform            rotate(360deg) !important;
+        transform:              rotate(360deg) !important;
+}
