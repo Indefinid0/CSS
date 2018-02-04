@@ -1196,25 +1196,6 @@ color:#4aaee7 !important;
 	box-shadow:inset -39px 0 0 #2878ba;
 }
 
-.user-content .grid .cell .top,
-#user-inventory .badges .grid .cell {
-	background: rgb(28,49,70);
-	background: -moz-linear-gradient(top,  rgba(28,49,70,1) 0%, rgba(41,137,216,1) 71%, rgba(32,124,202,1) 72%, rgba(28,49,70,1) 100%);
-	background: -webkit-linear-gradient(top,  rgba(28,49,70,1) 0%,rgba(41,137,216,1) 71%,rgba(32,124,202,1) 72%,rgba(28,49,70,1) 100%);
-	background: linear-gradient(to bottom,  rgba(28,49,70,1) 0%,rgba(41,137,216,1) 71%,rgba(32,124,202,1) 72%,rgba(28,49,70,1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1c3146', endColorstr='#1c3146',GradientType=0 );
-	opacity:0.6;
-}
-
-.user-content .grid .cell:hover .top,
-#user-inventory .badges .grid .cell:hover {
-	background: rgb(28,49,70) !important;
-	background: -moz-linear-gradient(top,  rgba(28,49,70,1) 0%, rgba(41,137,216,1) 71%, rgba(32,124,202,1) 72%, rgba(28,49,70,1) 100%) !important;
-	background: -webkit-linear-gradient(top,  rgba(28,49,70,1) 0%,rgba(41,137,216,1) 71%,rgba(32,124,202,1) 72%,rgba(28,49,70,1) 100%) !important;
-	background: linear-gradient(to bottom,  rgba(28,49,70,1) 0%,rgba(41,137,216,1) 71%,rgba(32,124,202,1) 72%,rgba(28,49,70,1) 100%) !important;
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1c3146', endColorstr='#1c3146',GradientType=0 ) !important;
-	opacity:1;
-}
 
 #user-inventory .avatars .grid .cell.selected .top {
 	background: #282c35;
