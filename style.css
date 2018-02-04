@@ -1089,12 +1089,6 @@ color:#4aaee7 !important;
 	color:#fff;
 }
 
-#user-menu .item.selected {
-	box-shadow:inset 3px 0 0 #4aaee7;
-	color:#fff;
-	background:none;
-}
-
 #user-menu .item.notify .count {
 	background:#2878BA;
 	border:16px;
